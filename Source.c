@@ -8,6 +8,7 @@ int carp(int x, int y);
 void ogrenci(int ogrenciSayisi);		//fonksiyonlarý void maine gostermek gerekýyor veya main fonksiyonun ustune de yazabýlýrsýnýz 
 float bol(float x, float y);			
 void sayiTahmin(int tahminHakki);
+//Git
 void main()
 {
 	/*int a = 5, b = 10;
