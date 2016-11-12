@@ -1,1 +1,1 @@
-# C-Programlama-Egitim-Kodlar-
+C programlama egitimindeki kaynak kodlar
